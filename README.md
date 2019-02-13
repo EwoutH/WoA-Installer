@@ -1,4 +1,4 @@
-﻿# WoA Installer 
+﻿# WoA Installer [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/OpenVisualCloud/SVT-AV1?branch=master&svg=true)](https://ci.appveyor.com/project/OpenVisualCloud/SVT-AV1)
 This is **WoA Installer**, a Windows 10 ARM64 Installer for Lumia 950/XL and Raspberry Pi 3. It's is a very simple tool that will help you install Windows ARM64 (Windows On ARM) with ease.
 
 # Flavors
