@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Installer.Core.FullFx", "In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Installer.Tests", "Installer.Tests\Installer.Tests.csproj", "{3C13BAB1-A222-4AE5-BE4B-F64FAD6F9606}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Registry", "Registry\Registry\Registry.csproj", "{5C40BE24-A89D-4973-B668-2D6E945CB047}"
+# Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Registry", "Registry\Registry\Registry.csproj", "{5C40BE24-A89D-4973-B668-2D6E945CB047}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Submodules", "Submodules", "{9BCD9498-F120-4DB2-BD5E-E2698705AC77}"
 EndProject
